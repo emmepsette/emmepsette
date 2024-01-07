@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ahmadcostantinigiobbi@gmail.com
+- 📫 How to reach me alessiofedullo@gmail.com
 
 <!---
 emmepsette/emmepsette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
